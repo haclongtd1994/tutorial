@@ -1,1 +1,2 @@
 Đến cả con khỉ cũng hiểu được lệnh Git 123
+pull: Lấy nội dung của remote repository
